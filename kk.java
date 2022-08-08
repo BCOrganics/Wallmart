@@ -1,3 +1,3 @@
 echo "Hello Guys"
-echo "very GM, this is Git course"
+echo "very GM, this Git course"
 
